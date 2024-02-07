@@ -1,5 +1,5 @@
-const apiKey="1606cc263ef231d334f1d54f2d88e39f"
-const apiUrl="https://api.openweathermap.org/data/2.5/weather?appid=1606cc263ef231d334f1d54f2d88e39f&units=metric&q="
+const apiKey="{your_api_key}"
+const apiUrl="https://api.openweathermap.org/data/2.5/weather?appid={your_api_key}&units=metric&q="
 
 
 const city=document.querySelector(".search")
